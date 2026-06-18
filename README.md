@@ -412,8 +412,6 @@ MIT License - feel free to use in personal and commercial projects!
 
 - **Discussions**: [GitHub Discussions](https://github.com/Usmanghani-develper/repo2api/discussions)
 - **Issues**: [Report bugs](https://github.com/Usmanghani-develper/repo2api/issues)
-- **Twitter**: [@Repo2API](https://twitter.com)
-- **Discord**: [Join our community](#)
 
 ---
 
